@@ -1,0 +1,13 @@
+{
+  "name": "ljw",
+  "description": "Personal Claude Code skills: R ggplot2 house plotting style, and more to come.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Luuk Harbers",
+    "email": "luuk.harbers@vib.be"
+  },
+  "homepage": "https://github.com/ljwharbers/claude-skills",
+  "repository": "https://github.com/ljwharbers/claude-skills",
+  "license": "MIT",
+  "keywords": ["r", "ggplot2", "plotting"]
+}

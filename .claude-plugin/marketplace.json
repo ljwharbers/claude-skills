@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ljwharbers",
+  "description": "Personal Claude Code skills of Luuk Harbers",
+  "owner": {
+    "name": "Luuk Harbers",
+    "email": "luuk.harbers@vib.be"
+  },
+  "plugins": [
+    {
+      "name": "ljw",
+      "source": "./",
+      "description": "Personal Claude Code skills: R ggplot2 house plotting style, and more to come.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "author": {
+        "name": "Luuk Harbers",
+        "email": "luuk.harbers@vib.be"
+      },
+      "homepage": "https://github.com/ljwharbers/claude-skills"
+    }
+  ]
+}
