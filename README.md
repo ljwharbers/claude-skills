@@ -12,10 +12,10 @@ Personal [Claude Code](https://claude.com/claude-code) skills, packaged as a plu
 
 ```
 /plugin marketplace add ljwharbers/claude-skills
-/plugin install ljw@ljwharbers
+/plugin install lharbers@ljwharbers
 ```
 
-Skills then show up namespaced, e.g. `ljw:r-ggplot-style`.
+Skills then show up namespaced, e.g. `lharbers:r-ggplot-style`.
 
 To pull in updates later:
 
